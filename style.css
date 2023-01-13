@@ -124,3 +124,27 @@ a{
   align-self: flex-end;
   font-weight: bold;
 }
+
+.section-four{
+  display: flex;
+  background-color: #3882F6;
+  margin: 90px 180px;
+  border-radius: 8px;
+  padding: 45px 90px;
+  color: white;
+}
+
+.section-four .bold{
+  font-size: 24px;
+  color: white;
+  font-weight: bold;
+}
+
+.section-four .right{
+  align-self: center;
+  margin-left: auto;
+  font-weight: bold;
+  padding: 8px 32px;
+  border: 2px solid white;
+  border-radius: 8px;
+}
