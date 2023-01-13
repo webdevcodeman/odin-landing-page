@@ -70,3 +70,35 @@ a{
   font-weight: bold;
   margin: 8px 0 140px 0;
 }
+
+.section-two{
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.section-two .heading{
+  font-size: 36px;
+  font-weight: extra-bold;
+  color: #1F2937;
+  margin: 48px 0;
+}
+
+.section-two .container{
+  display: flex;
+  gap: 60px;
+  justify-content: center;
+}
+
+.section-two img{
+  width: 140px;
+  height: 140px;
+  border: 4px solid royalblue;
+  border-radius: 16px;
+  margin-bottom: 4px;
+}
+
+.container .subtext{
+  max-width: 140px;
+  margin-bottom: 100px;
+}
