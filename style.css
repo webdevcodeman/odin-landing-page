@@ -2,6 +2,7 @@ body{
   display: flex;
   flex-direction: column;
   margin: 0;
+  font-family: roboto, sans-serif;
 }
 
 .section-one{
@@ -41,7 +42,7 @@ a{
 .body-left .secondary-text,
 .header a{
   font-size: 18px;
-  color: #F9FAF8;
+  color: #E5E7EB;
 }
 
 .header .logo{
